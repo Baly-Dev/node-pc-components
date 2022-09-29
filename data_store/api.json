@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "emoji": "📟",
+        "name": "Motherboard",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In, architecto!",
+        "price": 204
+    },
+    {
+        "id": 1,
+        "emoji": "📟",
+        "name": "CPU",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In, architecto!",
+        "price": 800
+    },
+    {
+        "id": 2,
+        "emoji": "📟",
+        "name": "GPU",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In, architecto!",
+        "price": 110
+    },
+    {
+        "id": 3,
+        "emoji": "📟",
+        "name": "Storage",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In, architecto!",
+        "price": 400
+    },
+    {
+        "id": 4,
+        "emoji": "📟",
+        "name": "Case",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In, architecto!",
+        "price": 80
+    }
+]
